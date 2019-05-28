@@ -2,11 +2,11 @@
 
 ## Setting up jasmine
 
-Jasmine is a node.js library. If you're just running this project, all you'll need to do is clone it down and run `npm install` in the base directory.  
+Jasmine is a node.js library. If you're just running this project, all you'll need to do is clone it down and run `npm install` in the base directory, and `npm install -g jasmine` to be able to run the `jasmine` command to run tests.
 
-If you're setting up jasmine for an existing project, check out [the docs](https://jasmine.github.io/setup/nodejs.html).
+If you're setting up jasmine for an existing project, check out [the docs](https://jasmine.github.io/setup/nodejs.html) for more detailed info.
 
-If you are starting a node project from scratch, take a look at [these docs](https://docs.npmjs.com/creating-node-js-modules).
+If you are starting a node project from scratch to try out jasmine, you'll want a `package.json` file -- if you want info on how to generate one, take a look at [these docs](https://docs.npmjs.com/creating-node-js-modules).
 
 ## Test Driven Development
 
