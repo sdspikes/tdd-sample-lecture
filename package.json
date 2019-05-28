@@ -1,0 +1,14 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "Lambda School Sample Lecture",
+  "main": "lib/TreeNode.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Sarah 'Stardust' Spikes",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
